@@ -1,6 +1,6 @@
 This solution's metrics
 
-[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/Magomogo/code-competition/badges/quality-score.png?s=425109351a8488b0b72903e0132a4cd07fb39c5f)](https://scrutinizer-ci.com/g/Magomogo/code-competition/) [![Code Coverage](https://scrutinizer-ci.com/g/Magomogo/code-competition/badges/coverage.png?s=2202d932963da16b3956425579078cc8356e148d)](https://scrutinizer-ci.com/g/Magomogo/code-competition/)
+[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/Fatal705/code-competition/badges/quality-score.png?s=5ad3a171ee80d6531318ff4b86278470dcf4d48d)](https://scrutinizer-ci.com/g/Fatal705/code-competition/) [![Code Coverage](https://scrutinizer-ci.com/g/Fatal705/code-competition/badges/coverage.png?s=68a0008ec60e0d9c2c70f45b1049f224cbe8108a)](https://scrutinizer-ci.com/g/Fatal705/code-competition/)
 
 Code beauty contest
 ===================
